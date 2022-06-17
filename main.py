@@ -52,7 +52,7 @@ neutral_list = []
 negative_list = []
 positive_list = []
 counter = 1
-keyword = str(input("Keyword giriniz..\n")) #BritishBasketball #ArmenianGenocide
+keyword = str(input("Keyword giriniz..\n")) #BritishBasketball #ArmenianGenocideIsFAKE
 noOfTweet = int(input("Kaç adet twit kontrol edilsin\n"))
 print(noOfTweet, "adet tweet api ile alınıyor...")
 # tweets = tweepy.Cursor(api.user_timeline, id = 'elonmusk',tweet_mode='extended').items(noOfTweet) # özel bir kullanıcının twitlerini alır
